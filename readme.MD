@@ -1,3 +1,3 @@
 ## HTML CSS Bootstrap Template for Developers Portfolio
 
-[Snap](/assets/img/screenshot.png)
+[/assets/img/screenshot.png]()
